@@ -1,5 +1,5 @@
 {
-  "startCommand": "npm run dev",
+  "startCommand": "npm install && npx next dev",
   "env": {
     "CAISY_PROJECT_ID": "a355218c-f5ce-4450-85f0-7a081f1347af",
     "CAISY_API_KEY": "gctQaofi5pzBBTeJ8xWCqvaXVRkEXl7f"
