@@ -1,3 +1,17 @@
+# Next x Caisy
+
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/caisy-io/caisy-example-next?file=pages%2Fblog%2F[slug].tsx)
+
+Dependencies: 
+- @caisy/rich-text-react-renderer
+- graphql
+- graphql-request
+
+To use them in another existing project:
+```
+npm install @caisy/rich-text-react-renderer graphql graphql-request --save
+```
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
