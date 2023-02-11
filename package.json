@@ -3,16 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "next",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
   },
   "dependencies": {
+    "@caisy/rich-text-react-renderer": "^0.6.1",
     "graphql": "^16.6.0",
     "graphql-request": "^5.1.0",
-    "@caisy/rich-text-react-renderer": "^0.6.1",
-    "next": "13.0.6",
+    "next": "^13.1.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
